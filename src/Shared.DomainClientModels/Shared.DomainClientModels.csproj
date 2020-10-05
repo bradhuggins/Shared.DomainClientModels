@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Brad Huggins</Authors>
+    <Company>Brad Huggins</Company>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <Version>0.1.0</Version>
+    <Copyright>2020</Copyright>
+    <Description>Shared Library for base client models for RESTful API request and response</Description>
+    <RepositoryUrl>https://github.com/bradhuggins/Shared.DomainClientModels</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageId>BradHuggins.Shared.DomainClientModels</PackageId>
+    <PackageProjectUrl>https://github.com/bradhuggins/Shared.DomainClientModels</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageLicenseFile></PackageLicenseFile>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
-
+  
 </Project>
